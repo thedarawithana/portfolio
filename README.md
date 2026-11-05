@@ -6,7 +6,7 @@ A modern, responsive, and high-performance personal portfolio website built with
 
 ## 🌟 Features
 
-- **Personalized Branding**: Highlighting **Thedara Thisathmi Withana** (IT undergraduate at **SLIIT – Faculty of Computing**, specializing in **AI/ML**).
+- **Personalized Branding**: Highlighting **Thedara Thisathmi Withana** (IT undergraduate at **SLIIT – Faculty of Computing**, specializing in **Artificial Intelligence**).
 - **Dark & Light Mode**: Seamless theme switching with local storage persistence.
 - **Categorized Skills**: Visual skill chips for Python, Java, SQL, OOP, Data Structures & Algorithms, HTML/CSS, Git/GitHub, and Machine Learning.
 - **Interactive Projects Showcase**:
@@ -16,7 +16,7 @@ A modern, responsive, and high-performance personal portfolio website built with
   - 🌐 **Interactive Web-Based Projects** (HTML5, CSS3, JavaScript)
   - Interactive category filtering ("All", "AI / ML", "Software Dev", "Web Dev") and detailed feature modals.
 - **Education & Certifications**:
-  - SLIIT BSc (Hons) in Information Technology degree details.
+  - SLIIT BSc (Hons) in Information Technology Specializing in Artificial Intelligence.
   - Cisco NetAcad, AWS, AI/ML courses, and industry certifications.
 - **Direct Contact & Connect**:
   - Click-to-email (`thedarawithana2005@gmail.com`)
