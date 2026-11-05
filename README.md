@@ -23,6 +23,7 @@ A modern, responsive, and high-performance personal portfolio website built with
   - Direct phone / WhatsApp (`+94 77 127 1478`)
   - LinkedIn ([thedara-withana-55b571395](https://www.linkedin.com/in/thedara-withana-55b571395))
   - GitHub ([github.com/thedarawithana](https://github.com/thedarawithana))
+  - Credly ([credly.com/users/thedara-withana](https://www.credly.com/users/thedara-withana))
   - Interactive email trigger form.
 - **Zero Heavy Dependencies**: Pure frontend, ultra-fast loading, fully responsive across all desktop and mobile devices.
 
